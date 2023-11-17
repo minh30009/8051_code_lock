@@ -13,3 +13,4 @@ Open the Proteus file to see the circuit.
 -> Start simulate.  
   
 Special Thanks to PhD. Tri Nhut Do.  
+University of Information Technology - UIT
