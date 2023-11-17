@@ -1,5 +1,5 @@
 # Digital-code-lock-using-8051  
-----------Only for study purpose-------------  
+**----------Only for study purpose-------------**  
 Passcode lock using 8051 with 4x3 keypad(phone keypad), LCD 16x2  
 Open the Proteus file to see the circuit.  
 -> Open sources code with KeilC.  
@@ -7,7 +7,7 @@ Open the Proteus file to see the circuit.
 -> Add .hex file to AT89C51 in Proteus.  
 -> Start simulate.  
   
-Update:  
+**Update:**  
 -> Open Proteus file.  
 -> Add "main.hex" file to AT89C51.  
 -> Start simulate.
