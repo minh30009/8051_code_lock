@@ -6,3 +6,8 @@ Open the Proteus file to see the circuit.
 -> Compile to .hex file.
 -> Add .hex file to AT89C51 in Proteus.
 -> Start simulate.
+
+Update:
+-> Open Proteus file.
+-> Add "main.hex" file to AT89C51.
+-> Start simulate.
